@@ -1,0 +1,12 @@
+<resources>
+    <string name="pin_note">Pin Note</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+    <string name="text">Note text</string>
+    <string name="subtext">Subtext</string>
+    <string name="pin">Pin</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="unpin">Unpin</string>
+    <string name="note_widget">Note Widget</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PinNoteLight" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">?android:colorControlNormal</item>
+        <item name="colorPrimaryVariant">?android:colorControlNormal</item>
+        <item name="colorOnPrimary">?android:textColorPrimary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">?android:colorActivatedHighlight</item>
+        <item name="colorSecondaryVariant">?android:colorControlNormal</item>
+        <item name="colorOnSecondary">?android:textColorPrimary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
